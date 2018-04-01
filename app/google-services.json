@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "15890143018",
+    "firebase_url": "https://popotoan-studycase6.firebaseio.com",
+    "project_id": "popotoan-studycase6",
+    "storage_bucket": "popotoan-studycase6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:15890143018:android:44f5761ccc0db65b",
+        "android_client_info": {
+          "package_name": "com.example.aditya.aditya_1202154139_modul6"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "15890143018-eaer1ijokiihbn5j4uihbq60ohqu8qe0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.aditya.aditya_1202154139_modul6",
+            "certificate_hash": "e60e8e3aae634b590340ee9970f08596fef3c4ec"
+          }
+        },
+        {
+          "client_id": "15890143018-m1pee27od12o7pd78lm26ur50euru5bu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcz8Z7-WrReMZ21mqnBXn7mFRBMDH3Qbo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "15890143018-m1pee27od12o7pd78lm26ur50euru5bu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
